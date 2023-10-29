@@ -128,7 +128,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/396e864d-7fe9-4eb4-883b-4dddff6c8da6)
 
-- Note: the above steps can be repeated to add several more agents.  For example:
+- <b>Note:</b> the above steps can be repeated to add several more agents.  For example:
     - Name: John Doe
     - Email Address: john@helpdesk.com
     - Primary Department: Support, Limited Access
@@ -154,7 +154,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/211b16f3-03d1-4f38-b3b0-bc37b1ce781b)
 
-- Note: the above steps can be repeated to add several more users.  For example:
+- <b>Note:</b> the above steps can be repeated to add several more users.  For example:
    
     - Email Address: Ken@customeremail.com
     - Name: Ken Doe
@@ -202,15 +202,18 @@ Examples of these are as follows:
 
 <br/>
 
-- From within the new menu, use the below images to add new topics to the already existing list of options.
+- From within the new menu, use the below information and images to add new topics to the already existing list of options.
 
-    - Equipment Request: Sev-C
-    - Password Reset: Sev-B
-    - Personal Computer Issues: Sev-B
-    - Report a Problem / Business Critical Outage: Sev-A
+    - Equipment Request
+    - Password Reset
+    - Personal Computer Issues
+    - Report a Problem / Business Critical Outage
+
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/0661a18d-514f-45dc-b3fc-7c8ecd253530)
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/92ee3321-7e1d-4b65-a2ba-bea734b20365)
+
+<b>Note:</b> In the <b>New ticket options</b> tab several options can be selected to further categorize your help topics for orgrizational purpurposes and convenience.  When we later address these tickets in the next tutorial, we will notice these details can also be completed when directly responding to the user who originally submitted them.
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/e21ec622-d4a8-4c3f-9b4b-b1243f7e5671)
 
