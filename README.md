@@ -180,3 +180,40 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/f9313000-2f6c-4882-b077-60287c358459)
 
+<b>Note:</b> The above SLA plans reflect different priortity levels of attention depending on hypothetical circumstances. <br>
+Depening on the severity of a client's problem, it should be addressed with the time frame of the corresponding SLP plan. <br>
+
+
+Examples of these are as follows:
+- A critical error has occured, affecting the financial status of a company: <b>SEV-A</b>
+- An employee has put in a request for a firmware udpate for a potentially slow operating system: <b>SEV-C</b>
+
+<br/>
+
+<h2>Configure Help Topics</h2>
+
+  - Click the Manage tab
+    -  Click <b>Help Topics</b>
+    -  Click Add <b>New Help Topic</b> <br>
+  
+<b>Note:</b> Default Help topics can be seen listed below.  We will be adding four additional topics that can be further associated with the new SLA plans we previously added.
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/320d5098-a060-4f22-9926-fe108ef678ef)
+
+<br/>
+
+- From within the new menu, use the below images to add new topics to the already existing list of options.
+
+    - Equipment Request: Sev-C
+    - Password Reset: Sev-B
+    - Personal Computer Issues: Sev-B
+    - Report a Problem / Business Critical Outage: Sev-A
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/0661a18d-514f-45dc-b3fc-7c8ecd253530)
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/92ee3321-7e1d-4b65-a2ba-bea734b20365)
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/e21ec622-d4a8-4c3f-9b4b-b1243f7e5671)
+
+
+
+
