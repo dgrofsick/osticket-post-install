@@ -35,10 +35,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
--  As the Admin, your initial log in will be within the Admin Panel.  From here:
-    - Click the Agents tab
-    - Click Roles
-    - Click Add New Roles 
+-  As the Admin, your initial log in will be within the <b>Admin Panel.</b>  From here:
+    - Click the <b>Agents</b> tab
+    - Click <b>Roles</b>
+    - Click <b>Add New Roles</b> 
 
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/62a131a5-2315-4865-af19-3275a1838d74)
@@ -47,9 +47,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 -  From here we will be adding the Supreme Admin Role
     -  Enter 'Supeme Admin' for the name of the role
-    -  Click the Permissions tab
-    -  Click all check boxes to grant full access to this role
-    -  Click Add Role when complete
+    -  Click the <b>Permissions</b> tab
+    -  Click all [ ]check boxes to grant full access to this role
+    -  Click <b>Add Role</b> when complete
     
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/373cd15c-c0f8-4559-b981-acbf93af57f8)
@@ -60,9 +60,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuring Departments</h2>
 
-- Return to the Agents Tab
-    - Click Departments
-    - Click Add New Department
+- Return to the <b>Agents Tab</b>
+    - Click <b>Departments</b>
+    - Click <b>Add New Department</b>
  
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/043cbe96-2264-45ec-8aef-67a08a5a34d3)
 
@@ -70,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - From here, we will be adding the System Administrators Department
     -  Enter 'System Adminstrators' for the name of the department
-    -  Click Create Dept
+    -  Click <b>Create Dept</b>
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/5b77c144-4f74-41e7-8e89-79bfd2ecf8b3)
 
@@ -78,9 +78,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuring Teams</h2>
 
-- Return to the Agents Tab
-    -  Click Teams
-    -  Click Add New Team
+- Return to the <b>Agents</b> Tab
+    -  Click <b>Teams</b>
+    -  Click <b>Add New Team</b>
  
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/be516c1b-2536-4b6e-b19e-9570dfa16fe2)
 
@@ -88,7 +88,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - From here, we will be adding the Level II Support Team
     -  Enter 'Level II Support' for the name of the team
-    -  Click Create Team
+    -  Click <b>Create Team</b>
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/d1764ee3-7f67-4ce5-a4bd-7035e0278056)
 
@@ -96,11 +96,11 @@ This tutorial outlines the post-install configuration of the open-source help de
  
 <h2>Ticket Creation Settings</h2>
 
-- Click the Settings Tab in the top left
-- Click Users
-- Ensure the box for '[ ] Require registration and login to create tickets' is left unchecked
+- Click the <b>Settings</b> tab in the top left
+- Click <b>Users</b>
+- Ensure the box for <b>[ ] Require registration and login to create tickets</b> is left unchecked
     -  This will allow us to create tickets when logged in as our future users/customers without extra barriers
-- Click Save Changes if necesssary
+- Click <b>Save Changes</b> if necesssary
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/6fb76683-15fb-4b6a-a11d-54ad84eaa7c4)
 
@@ -113,17 +113,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/5f4413d1-5331-4004-bce6-b930daf48d50)
 
-- From within the Agents Tab, enter the follwing basic account information
+- From within the <b>Agents</b> Tab, enter the follwing basic account information
   -  Name: Jane Doe
   -  Email Address: jane@helpdesk.com
+
+<b>Note:</b> The <b>Permissions</b> and <b>Teams</b> tabs can be further customized for agent categorization reasons, but is not currently necessary for this exercise. 
 
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/ff93f651-361e-4def-a589-f43c96c7ce81)
 
-- Click the Access sub tab
+- Click the <b>Access</b> sub tab
     -  Ensure 'System Administrators' and 'Supreme Admin' are selected from their respective dropdown menus.
 
-- In order to grant more access to an agent, select another department from the drop down menu under Extended Access and click Add.
+- In order to grant more access to an agent, select another department from the drop down menu under <b>Extended Access</b> and click <b>Add</b>.
     -  The added department will need an assigned role i.e. Supreme Admin, so be sure to select one if extended access to other departments is granted.
   
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/396e864d-7fe9-4eb4-883b-4dddff6c8da6)
@@ -133,15 +135,15 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Email Address: john@helpdesk.com
     - Primary Department: Support, Limited Access
   
-- Click Create once complete
+- Click <b>Create</b> once complete
 
 <br/>
 
 <h2>Configure Users/Customers</h2>
 
-- Click the Agent Panel link in the top right corner
-    -  Click the Users Tab
-    -  Click Add User
+- Click the <b>Agent Panel</b> link in the top right corner
+    -  Click the <b>Users</b> Tab
+    -  Click <b>Add User</b>
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/bcab707d-c2ba-4f22-a421-15fbd1825c50)
 
@@ -150,7 +152,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - From within the new menu, enter the following basic information for your first user:
     -  Email Address: karen@customeremail.com (or whatever email you choose)
     -  Full Name: Karen Doe
-- Select Add User
+- Select <b>Add User</b>
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/211b16f3-03d1-4f38-b3b0-bc37b1ce781b)
 
@@ -163,10 +165,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   <h2>Configure SLA</h2>
 
-- Click Admin Panel in the top right corner (will appear as 'Agent Panel' in the bottom image)
-    -  Click the Manage tab
-    -  Click the SLA sub tab
-    -  Click Add New SLA Plan
+- Click <b>Admin Panel</b> in the top right corner (will appear as 'Agent Panel' in the bottom image)
+    -  Click the <b>Manage</b> tab
+    -  Click the <b>SLA</b> sub tab
+    -  Click <b>Add New SLA Plan</b>
  
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/5f384229-1fe0-43bd-84c5-2d98ce81b261)
 
