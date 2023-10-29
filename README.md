@@ -108,3 +108,75 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configure Agents</h2>
 
+- Return to the Agents Tab
+    -  Click Add New Agent
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/5f4413d1-5331-4004-bce6-b930daf48d50)
+
+- From within the Agents Tab, enter the follwing basic account information
+  -  Name: Jane Doe
+  -  Email Address: jane@helpdesk.com
+
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/ff93f651-361e-4def-a589-f43c96c7ce81)
+
+- Click the Access sub tab
+    -  Ensure 'System Administrators' and 'Supreme Admin' are selected from their respective dropdown menus.
+
+- In order to grant more access to an agent, select another department from the drop down menu under Extended Access and click Add.
+    -  The added department will need an assigned role i.e. Supreme Admin, so be sure to select one if extended access to other departments is granted.
+  
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/396e864d-7fe9-4eb4-883b-4dddff6c8da6)
+
+- Note: the above steps can be repeated to add several more agents.  For example:
+    - Name: John Doe
+    - Email Address: john@helpdesk.com
+    - Primary Department: Support, Limited Access
+  
+- Click Create once complete
+
+<br/>
+
+<h2>Configure Users/Customers</h2>
+
+- Click the Agent Panel link in the top right corner
+    -  Click the Users Tab
+    -  Click Add User
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/bcab707d-c2ba-4f22-a421-15fbd1825c50)
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/d4c2632c-f92d-4287-8d29-3d8ca0bb199d)
+
+- From within the new menu, enter the following basic information for your first user:
+    -  Email Address: karen@customeremail.com (or whatever email you choose)
+    -  Full Name: Karen Doe
+- Select Add User
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/211b16f3-03d1-4f38-b3b0-bc37b1ce781b)
+
+- Note: the above steps can be repeated to add several more users.  For example:
+   
+    - Email Address: Ken@customeremail.com
+    - Name: Ken Doe
+ 
+<br/>
+
+  <h2>Configure SLA</h2>
+
+- Click Admin Panel in the top right corner (will appear as 'Agent Panel' in the bottom image)
+    -  Click the Manage tab
+    -  Click the SLA sub tab
+    -  Click Add New SLA Plan
+ 
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/5f384229-1fe0-43bd-84c5-2d98ce81b261)
+
+- From within the new menu, use the following information as the parameters for the new SLA Plans:
+
+<br/>
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/3580a8eb-e045-4f5d-b8d7-681ea66cb19c)
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/4d7912f4-5040-450e-8957-b9edd8675e75)
+
+![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/f9313000-2f6c-4882-b077-60287c358459)
+
