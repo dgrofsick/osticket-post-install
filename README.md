@@ -233,4 +233,9 @@ Examples of these are as follows:
 
 ![image](https://github.com/dgrofsick/osticket-post-install/assets/148154704/0661a18d-514f-45dc-b3fc-7c8ecd253530)
 
+<h2>Resource Cleanup</h2>
+
+- Close your Remote Desktop connection
+- Delete the Resource Group(s) created at the beginning of this turtorial, including the Network Watcher
+- Verify Resource Group Deletion
 
