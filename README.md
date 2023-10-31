@@ -173,7 +173,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   <h2>Configure SLA</h2>
 
-- Click <b>Admin Panel</b> in the top right corner (will appear as 'Agent Panel' in the bottom image)
+- Click <b>Admin Panel</b> in the top right corner (will turn into 'Agent Panel' as shown in the bottom image)
     -  Click the <b>Manage</b> tab
     -  Click the <b>SLA</b> sub tab
     -  Click <b>Add New SLA Plan</b>
